@@ -6,3 +6,7 @@
 ```python
 print("Hello, world!")
 ```
+
+- [x] Hacer a
+- [ ] Hacer b
+- [ ] Hacer c
